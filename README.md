@@ -1,27 +1,42 @@
 # Imprenta SEJ - Web Portfolio
 
-Este es un proyecto de ejemplo desarrollado para demostrar habilidades técnicas en desarrollo web fullstack, siguiendo los requisitos específicos de una vacante para Desarrollador Web.
+Sitio web profesional de alto impacto para la industria de la impresión. Esta aplicación demuestra una implementación sólida de desarrollo web fullstack, combinando diseño UI/UX de vanguardia con una arquitectura de servidor eficiente.
 
-## 🚀 Requisitos Cumplidos
+## 🚀 Características Técnicas
 
-1.  **Ingeniería y Desarrollo:** Implementación de una arquitectura limpia usando **Node.js** y **Express** para el servidor backend.
-2.  **UI/UX:** Diseño moderno, limpio y profesional orientado a la industria de la imprenta, utilizando una paleta de colores **CMYK** (Cyan, Magenta, Yellow, Black).
-3.  **Tecnologías Web:** Uso de **HTML5** semántico, **CSS3** avanzado (Flexbox, Grid, Variables) y **JavaScript** Vanilla (ES6+) para interactividad.
-4.  **Responsive Design:** La web es completamente adaptable a dispositivos móviles, tablets y computadoras de escritorio.
-5.  **Interacción:** Sistema de contacto funcional simulado mediante una API REST.
+- **Ingeniería de Software:** Arquitectura basada en **Node.js** y **Express.js** para un manejo eficiente de peticiones y escalabilidad básica.
+- **UI/UX Premium:** Interfaz diseñada específicamente para el sector gráfico, utilizando una paleta de colores **CMYK** balanceada para una experiencia de usuario inmersiva y profesional.
+- **Frontend Moderno:** Desarrollado con **HTML5 semántico**, **CSS3 avanzado** (Grid, Flexbox, Variables) y **JavaScript ES6+** para una interactividad fluida sin dependencias pesadas.
+- **Responsive Design:** Optimización completa para cualquier tamaño de pantalla, desde dispositivos móviles hasta estaciones de trabajo de escritorio.
+- **API de Contacto:** Sistema integrado para la gestión de mensajes de clientes potenciales.
 
-## 🛠️ Tecnologías Utilizadas
+## 🛠️ Stack Tecnológico
 
-- **Backend:** Node.js, Express.js.
-- **Frontend:** HTML, CSS, JavaScript.
-- **Diseño:** Google Fonts (Poppins), Paleta CMYK.
+- **Servidor:** Node.js v16+
+- **Framework:** Express.js
+- **Estilos:** CSS3 nativo (Mobile-First)
+- **Scripting:** Vanilla JavaScript
 
-## 📦 Instalación y Uso
+## 📦 Despliegue y Ejecución Local
 
-1.  Clona este repositorio.
-2.  Ejecuta `npm install` para instalar las dependencias.
-3.  Inicia el servidor con `npm start`.
-4.  Abre `http://localhost:3000` en tu navegador.
+Para levantar el proyecto en un entorno local o de producción, siga estos pasos:
+
+1.  **Clonación:**
+    ```bash
+    git clone https://github.com/sophixGT/web-imprenta-sej.git
+    cd web-imprenta-sej
+    ```
+
+2.  **Instalación de dependencias:**
+    ```bash
+    npm install
+    ```
+
+3.  **Inicio del servidor:**
+    ```bash
+    npm start
+    ```
+    El sitio estará disponible en `http://localhost:3000`.
 
 ---
-*Desarrollado como parte de un portafolio profesional.*
+*Desarrollado con estándares de calidad para el portafolio profesional de Ingrid Arana.*
