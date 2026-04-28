@@ -39,4 +39,4 @@ Para levantar el proyecto en un entorno local o de producción, siga estos pasos
     El sitio estará disponible en `http://localhost:3000`.
 
 ---
-*Desarrollado con estándares de calidad para el portafolio profesional de Ingrid Arana.*
+*Desarrollado con estándares de calidad por Ingrid Trampe.*
